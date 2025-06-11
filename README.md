@@ -26,4 +26,6 @@
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/saitguelen/swing-calculator.git
+https://github.com/saitguelen/swing-calculator.git
+
+![Calculator Screenshot](img.png)
