@@ -23,9 +23,9 @@
 ---
 
 ## ▶️ How to Run / Nasıl Çalıştırılır
-
+![Calculator Screenshot](img.png)
 1. Clone the repo:
-```bash
+
 https://github.com/saitguelen/swing-calculator.git
 
-![Calculator Screenshot](img.png)
+
